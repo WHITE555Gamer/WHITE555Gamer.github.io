@@ -1,0 +1,13 @@
+
+
+
+/*ボーダー制御*/
+.appearborder-1pxbottom:hover{
+	border-bottom: 1px #5a5a5a solid;
+}
+.appearborder-2pxbottom:hover{
+	border-bottom: 2px #5a5a5a solid;
+}
+.appearborder-3pxbottom:hover{
+	border-bottom: 3px #5a5a5a solid;
+}

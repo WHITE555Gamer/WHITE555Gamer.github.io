@@ -1,0 +1,101 @@
+
+
+
+/*画像の拡大縮小*/
+.imgx10transform{
+	transition-duration: 0.3s; 
+}
+.imgx10transform:hover{
+	transform: scale(1.0);
+	transition-duration: 0.3s; 
+}
+
+.imgx105transform{
+	transition-duration: 0.3s; 
+}
+.imgx105transform:hover{
+	transform: scale(1.05);
+	transition-duration: 0.3s; 
+}
+
+.imgx11transform{
+	transition-duration: 0.3s; 
+}
+.imgx11transform:hover{
+	transform: scale(1.1);
+	transition-duration: 0.3s; 
+}
+
+.imgx12transform{
+	transition-duration: 0.3s; 
+}
+.imgx12transform:hover{
+	transform: scale(1.2);
+	transition-duration: 0.3s; 
+}
+
+.imgx13transform{
+	transition-duration: 0.3s; 
+}
+.imgx13transform:hover{
+	transform: scale(1.3);
+	transition-duration: 0.3s; 
+}
+
+.imgx14transform{
+	transition-duration: 0.3s; 
+}
+.imgx14transform:hover{
+	transform: scale(1.4);
+	transition-duration: 0.3s; 
+}
+
+.imgx15transform{
+	transition-duration: 0.3s; 
+}
+.imgx15transform:hover{
+	transform: scale(1.5);
+	transition-duration: 0.3s; 
+}
+
+.imgx16transform{
+	transition-duration: 0.3s; 
+}
+.imgx16transform:hover{
+	transform: scale(1.6);
+	transition-duration: 0.3s; 
+}
+
+.imgx17transform{
+	transition-duration: 0.3s; 
+}
+.imgx17transform:hover{
+	transform: scale(1.7);
+	transition-duration: 0.3s; 
+}
+
+.imgx18transform{
+	transition-duration: 0.3s; 
+}
+.imgx18transform:hover{
+	transform: scale(1.8);
+	transition-duration: 0.3s; 
+}
+
+.imgx19transform{
+	transition-duration: 0.3s; 
+}
+.imgx19transform:hover{
+	transform: scale(1.9);
+	transition-duration: 0.3s; 
+}
+
+.imgx12transform{
+	transition-duration: 0.3s; 
+}
+.imgx12transform:hover{
+	transform: scale(2.0);
+	transition-duration: 0.3s; 
+}
+
+

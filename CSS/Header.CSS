@@ -1,0 +1,58 @@
+/*固定ヘッダー*/
+
+header.minimumfixed{
+	display: flex;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	width: 72%;
+	height: 45px;
+	background-color: #fafafa;
+	border-bottom: 1px solid #cccccc
+}
+
+header.fixed{
+	display: flex;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	width: 72%;
+	height: 45px;
+	padding-left: 14%;
+	padding-right: 14%;
+	background-color: #fafafa;
+	border-top: 3px solid #000000;
+	border-bottom: 1px solid #cccccc;
+	box-shadow:0 3px 10px 2px #aaaaaa;
+}
+
+.pagelogo{
+	width: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-right: 5px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: center;
+}
+
+.headerlinkbutton{
+	width: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-right: 5px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 15px;
+	padding-right: 15px;
+	text-align: center;
+	font-weight: bold;
+	text-decoration: none;
+}
+.headerlinkbutton:hover{
+	border-bottom: 3px #5a5a5a solid;
+}

@@ -1,0 +1,86 @@
+/*body・div・span等規模の大きいBlock化を収納*/
+
+/*サイトの一番上の戻るときに使用するid属性*/
+div#TOP{
+	padding-top: 45px;
+}
+
+body.backbase{background-color: #e8e8e8;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 17.5%;
+	padding-right: 17.5%;
+	}
+body.backbeige{background-color: #f5f5dc;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 17.5%;
+	padding-right: 17.5%;
+	}
+body.backblack{background-color: #000000;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 17.5%;
+	padding-right: 17.5%;
+	}
+body.backgray{background-color: #808080;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 17.5%;
+	padding-right: 17.5%;
+	}
+body.backwhite{background-color: #ffffff;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 17.5%;
+	padding-right: 17.5%;
+	}
+
+div.backbeige{
+	background-color: #f5f5dc;
+	width: auto;
+	padding-top:10px;
+	padding-bottom: 10px;
+	padding-left: 25px;
+	padding-right:25px;
+	margin-top:15px;
+	margin-bottom:15px;
+	border: 1px solid #cccccc;
+	border-radius: 20px;
+	}
+div.backblack{
+	background-color: #000000;
+	width: auto;
+	padding-top:10px;
+	padding-bottom: 10px;
+	padding-left: 25px;
+	padding-right:25px;
+	margin-top:15px;
+	margin-bottom:15px;
+	border: 1px solid #cccccc;
+	border-radius: 20px;
+	}
+div.backgray{
+	background-color: #808080;
+	width: auto;
+	padding-top:10px;
+	padding-bottom: 10px;
+	padding-left: 25px;
+	padding-right:25px;
+	margin-top:15px;
+	margin-bottom:15px;
+	border: 1px solid #cccccc;
+	border-radius: 20px;
+	}
+div.backwhite{
+	background-color: #ffffff;
+	width: auto;
+	padding-top:10px;
+	padding-bottom: 10px;
+	padding-left: 25px;
+	padding-right:25px;
+	margin-top:15px;
+	margin-bottom:15px;
+	border: 1px solid #cccccc;
+	border-radius: 20px;
+	}

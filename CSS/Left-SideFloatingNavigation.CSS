@@ -1,0 +1,37 @@
+
+
+
+.navigation{
+	overflow: auto;
+	display: flex;
+	position: fixed;
+	
+	top: 15%;
+	left: 17.5px;
+	width: 15%;
+	height: auto;
+	max-height: 65%;
+	
+	padding-left: 15px;
+	background-color: #ffffff;
+	border: 1px solid #cccccc;
+	box-shadow:0 3px 10px 2px #aaaaaa;
+	border-radius: 20px;
+}
+
+.toc-header{
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+.toc-list{
+	margin-top: 0px;
+	padding-bottom: 0px;
+}
+.toc-item{
+	text-decoration: none; 
+}
+.toc-item:hover{
+	text-decoration: underline;
+}
+
+/*Table Of Contents = toc*/

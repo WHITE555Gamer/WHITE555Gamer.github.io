@@ -1,0 +1,178 @@
+/* https://www.colordic.org/ */
+
+/*三原色と黒灰白*/
+.backred{background-color: #ff0000}
+.backgreen{background-color: #00ff00}
+.backblue{background-color: #0000ff}
+.backblack{background-color: #000000}
+.backgray{background-color: #808080}
+.backwhite{background-color: #ffffff}
+
+/*無彩色系統*/
+.backdimgray{background-color: #696969}
+.backdarkgray{background-color: #a9a9a9}
+.backsilver{background-color: #c0c0c0}
+.backlightgray{background-color: #d3d3d3}
+.backgainsboro{background-color: #dcdcdc}
+.backwhitesmoke{background-color: #f5f5f5}
+.backsnow{background-color: #fffafa}
+.backghostwhite{background-color: #f8f8ff}
+
+/*弱暖色系統*/
+.backfloralwhite{background-color: #fffaf0}
+.backlinen{background-color: #faf0e6}
+.backantiquewhite{background-color: #faebd7}
+.backpapayawhip{background-color: #ffefd5}
+.backblanchedalmond{background-color: #ffebcd}
+.backbisque{background-color: #ffe4c4}
+.backmoccasin{background-color: #ffe4b5}
+.backnavajowhite{background-color: #ffdead}
+.backpeachpuff{background-color: #ffdab9}
+.backmistyrose{background-color: #ffe4e1}
+.backlavenderblush{background-color: #fff0f5}
+.backseashell{background-color: #fff5ee}
+.backoldlace{background-color: #fdf5e6}
+.backivory{background-color: #fffff0}
+
+/*弱寒色系統*/
+.backhoneydew{background-color: #f0fff0}
+.backmintcream{background-color: #f5fffa}
+.backazure{background-color: #f0ffff}
+.backaliceblue{background-color: #f0f8ff}
+.backaliceblue{background-color: #f0f8ff}
+
+/*青系統色*/
+.backlavender{background-color: #e6e6fa}
+.backlightsteelblue{background-color: #b0c4de}
+.backlightslategray{background-color: #778899}
+.backslategray{background-color: #708090}
+.backsteelblue{background-color: #4682b4}
+.backroyalblue{background-color: #4169e1}
+.backmidnightblue{background-color: #191970}
+.backnavy{background-color: #000080}
+.backdarkblue{background-color: #00008b}
+.backmediumblue{background-color: #0000cd}
+.backdodgerblue{background-color: #1e90ff}
+.backcornflowerblue{background-color: #6495ed}
+.backdeepskyblue{background-color: #00bfff}
+.backlightskyblue{background-color: #87cefa}
+.backskyblue{background-color: #87ceeb}
+.backlightblue{background-color: #add8e6}
+.backpowderblue{background-color: #b0e0e6}
+
+/*青緑系統色*/
+.backpaleturquoise{background-color: #afeeee}
+.backlightcyan{background-color: #e0ffff}
+.backcyan{background-color: #00ffff}
+.backaqua{background-color: #00ffff}
+
+/*緑系統色*/
+.backturquoise{background-color: #40e0d0}
+.backmediumturquoise{background-color: #48d1cc}
+.backdarkturquoise{background-color: #00ced1}
+.backlightseagreen{background-color: #20b2aa}
+.backcadetblue{background-color: #5f9ea0}
+.backdarkcyan{background-color: #008b8b}
+.backteal{background-color: #008080}
+.backdarkslategray{background-color: #2f4f4f}
+.backdarkgreen{background-color: #006400}
+.backforestgreen{background-color: #228b22}
+.backseagreen{background-color: #2e8b57}
+.backmediumseagreen{background-color: #3cb371}
+.backmediumaquamarine{background-color: #66cdaa}
+.backdarkseagreen{background-color: #8fbc8f}
+.backaquamarine{background-color: #7fffd4}
+.backpalegreen{background-color: #98fb98}
+.backlightgreen{background-color: #90ee90}
+.backspringgreen{background-color: #00ff7f}
+.backmediumspringgreen{background-color: #00fa9a}
+.backlawngreen{background-color: #7cfc00}
+.backchartreuse{background-color: #7fff00}
+
+/*黄緑系統色*/
+.backgreenyellow{background-color: #adff2f}
+.backlime{background-color: #00ff00}
+.backlimegreen{background-color: #32cd32}
+.backyellowgreen{background-color: #9acd32}
+.backdarkolivegreen{background-color: #556b2f}
+.backolivedrab{background-color: #6b8e23}
+.backolive{background-color: #808000}
+.backdarkkhaki{background-color: #bdb76b}
+.backpalegoldenrod{background-color: #eee8aa}
+
+/*薄黄系統色*/
+.backcornsilk{background-color: #fff8dc}
+.backbeige{background-color: #f5f5dc}
+.backlightyellow{background-color: #ffffe0}
+.backlightgoldenrodyellow{background-color: #fafad2}
+.backlemonchiffon{background-color: #fffacd}
+
+/*薄茶色系統色*/
+.backwheat{background-color: #f5deb3}
+.backburlywood{background-color: #deb887}
+.backtan{background-color: #d2b48c}
+.backkhaki{background-color: #f0e68c}
+
+/*黄系統色*/
+.backyellow{background-color: #ffff00}
+.backgold{background-color: #ffd700}
+.backorange{background-color: #ffa500}
+.backsandybrown{background-color: #f4a460}
+.backdarkorange{background-color: #ff8c00}
+.backgoldenrod{background-color: #daa520}
+.backperu{background-color: #cd853f}
+.backdarkgoldenrod{background-color: #b8860b}
+
+/*茶色系統色*/
+.backchocolate{background-color: #d2691e}
+.backsienna{background-color: #a0522d}
+.backsaddlebrown{background-color: #8b4513}
+
+/*濃赤系統色*/
+.backmaroon{background-color: #800000}
+.backdarkred{background-color: #8b0000}
+.backbrown{background-color: #a52a2a}
+.backfirebrick{background-color: #b22222}
+.backindianred{background-color: #cd5c5c}
+
+/*薄赤系統色*/
+.backrosybrown{background-color: #bc8f8f}
+.backdarksalmon{background-color: #e9967a}
+.backlightcoral{background-color: #f08080}
+.backsalmon{background-color: #fa8072}
+.backlightsalmon{background-color: #ffa07a}
+
+/*橙赤系統色*/
+.backcoral{background-color: #ff7f50}
+.backtomato{background-color: #ff6347}
+.backorangered{background-color: #ff4500}
+
+/*濃紫系統色*/
+.backcrimson{background-color: #dc143c}
+.backmediumvioletred{background-color: #c71585}
+
+/*桃系統色*/
+.backdeeppink{background-color: #ff1493}
+.backhotpink{background-color: #ff69b4}
+.backpalevioletred{background-color: #db7093}
+.backpink{background-color: #ffc0cb}
+.backlightpink{background-color: #ffb6c1}
+
+/*紫系統色*/
+.backthistle{background-color: #d8bfd8}
+.backmagenta{background-color: #ff00ff}
+.backfuchsia{background-color: #ff00ff}
+.backviolet{background-color: #ee82ee}
+.backplum{background-color: #dda0dd}
+.backorchid{background-color: #da70d6}
+.backmediumorchid{background-color: #ba55d3}
+.backdarkorchid{background-color: #9932cc}
+.backdarkviolet{background-color: #9400d3}
+.backdarkmagenta{background-color: #8b008b}
+.backpurple{background-color: #800080}
+.backindigo{background-color: #4b0082}
+.backdarkslateblue{background-color: #483d8b}
+.backblueviolet{background-color: #8a2be2}
+.backmediumpurple{background-color: #9370db}
+.backslateblue{background-color: #6a5acd}
+.backmediumslateblue{background-color: #7b68ee}

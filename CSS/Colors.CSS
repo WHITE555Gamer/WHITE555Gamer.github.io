@@ -1,0 +1,178 @@
+/* https://www.colordic.org/ */
+
+/*三原色と黒灰白*/
+.red{color: #ff0000}
+.green{color: #00ff00}
+.blue{color: #0000ff}
+.black{color: #000000}
+.gray{color: #808080}
+.white{color: #ffffff}
+
+/*無彩色系統*/
+.dimgray{color: #696969}
+.darkgray{color: #a9a9a9}
+.silver{color: #c0c0c0}
+.lightgray{color: #d3d3d3}
+.gainsboro{color: #dcdcdc}
+.whitesmoke{color: #f5f5f5}
+.snow{color: #fffafa}
+.ghostwhite{color: #f8f8ff}
+
+/*弱暖色系統*/
+.floralwhite{color: #fffaf0}
+.linen{color: #faf0e6}
+.antiquewhite{color: #faebd7}
+.papayawhip{color: #ffefd5}
+.blanchedalmond{color: #ffebcd}
+.bisque{color: #ffe4c4}
+.moccasin{color: #ffe4b5}
+.navajowhite{color: #ffdead}
+.peachpuff{color: #ffdab9}
+.mistyrose{color: #ffe4e1}
+.lavenderblush{color: #fff0f5}
+.seashell{color: #fff5ee}
+.oldlace{color: #fdf5e6}
+.ivory{color: #fffff0}
+
+/*弱寒色系統*/
+.honeydew{color: #f0fff0}
+.mintcream{color: #f5fffa}
+.azure{color: #f0ffff}
+.aliceblue{color: #f0f8ff}
+.aliceblue{color: #f0f8ff}
+
+/*青系統色*/
+.lavender{color: #e6e6fa}
+.lightsteelblue{color: #b0c4de}
+.lightslategray{color: #778899}
+.slategray{color: #708090}
+.steelblue{color: #4682b4}
+.royalblue{color: #4169e1}
+.midnightblue{color: #191970}
+.navy{color: #000080}
+.darkblue{color: #00008b}
+.mediumblue{color: #0000cd}
+.dodgerblue{color: #1e90ff}
+.cornflowerblue{color: #6495ed}
+.deepskyblue{color: #00bfff}
+.lightskyblue{color: #87cefa}
+.skyblue{color: #87ceeb}
+.lightblue{color: #add8e6}
+.powderblue{color: #b0e0e6}
+
+/*青緑系統色*/
+.paleturquoise{color: #afeeee}
+.lightcyan{color: #e0ffff}
+.cyan{color: #00ffff}
+.aqua{color: #00ffff}
+
+/*緑系統色*/
+.turquoise{color: #40e0d0}
+.mediumturquoise{color: #48d1cc}
+.darkturquoise{color: #00ced1}
+.lightseagreen{color: #20b2aa}
+.cadetblue{color: #5f9ea0}
+.darkcyan{color: #008b8b}
+.teal{color: #008080}
+.darkslategray{color: #2f4f4f}
+.darkgreen{color: #006400}
+.forestgreen{color: #228b22}
+.seagreen{color: #2e8b57}
+.mediumseagreen{color: #3cb371}
+.mediumaquamarine{color: #66cdaa}
+.darkseagreen{color: #8fbc8f}
+.aquamarine{color: #7fffd4}
+.palegreen{color: #98fb98}
+.lightgreen{color: #90ee90}
+.springgreen{color: #00ff7f}
+.mediumspringgreen{color: #00fa9a}
+.lawngreen{color: #7cfc00}
+.chartreuse{color: #7fff00}
+
+/*黄緑系統色*/
+.greenyellow{color: #adff2f}
+.lime{color: #00ff00}
+.limegreen{color: #32cd32}
+.yellowgreen{color: #9acd32}
+.darkolivegreen{color: #556b2f}
+.olivedrab{color: #6b8e23}
+.olive{color: #808000}
+.darkkhaki{color: #bdb76b}
+.palegoldenrod{color: #eee8aa}
+
+/*薄黄系統色*/
+.cornsilk{color: #fff8dc}
+.beige{color: #f5f5dc}
+.lightyellow{color: #ffffe0}
+.lightgoldenrodyellow{color: #fafad2}
+.lemonchiffon{color: #fffacd}
+
+/*薄茶色系統色*/
+.wheat{color: #f5deb3}
+.burlywood{color: #deb887}
+.tan{color: #d2b48c}
+.khaki{color: #f0e68c}
+
+/*黄系統色*/
+.yellow{color: #ffff00}
+.gold{color: #ffd700}
+.orange{color: #ffa500}
+.sandybrown{color: #f4a460}
+.darkorange{color: #ff8c00}
+.goldenrod{color: #daa520}
+.peru{color: #cd853f}
+.darkgoldenrod{color: #b8860b}
+
+/*茶色系統色*/
+.chocolate{color: #d2691e}
+.sienna{color: #a0522d}
+.saddlebrown{color: #8b4513}
+
+/*濃赤系統色*/
+.maroon{color: #800000}
+.darkred{color: #8b0000}
+.brown{color: #a52a2a}
+.firebrick{color: #b22222}
+.indianred{color: #cd5c5c}
+
+/*薄赤系統色*/
+.rosybrown{color: #bc8f8f}
+.darksalmon{color: #e9967a}
+.lightcoral{color: #f08080}
+.salmon{color: #fa8072}
+.lightsalmon{color: #ffa07a}
+
+/*橙赤系統色*/
+.coral{color: #ff7f50}
+.tomato{color: #ff6347}
+.orangered{color: #ff4500}
+
+/*濃紫系統色*/
+.crimson{color: #dc143c}
+.mediumvioletred{color: #c71585}
+
+/*桃系統色*/
+.deeppink{color: #ff1493}
+.hotpink{color: #ff69b4}
+.palevioletred{color: #db7093}
+.pink{color: #ffc0cb}
+.lightpink{color: #ffb6c1}
+
+/*紫系統色*/
+.thistle{color: #d8bfd8}
+.magenta{color: #ff00ff}
+.fuchsia{color: #ff00ff}
+.violet{color: #ee82ee}
+.plum{color: #dda0dd}
+.orchid{color: #da70d6}
+.mediumorchid{color: #ba55d3}
+.darkorchid{color: #9932cc}
+.darkviolet{color: #9400d3}
+.darkmagenta{color: #8b008b}
+.purple{color: #800080}
+.indigo{color: #4b0082}
+.darkslateblue{color: #483d8b}
+.blueviolet{color: #8a2be2}
+.mediumpurple{color: #9370db}
+.slateblue{color: #6a5acd}
+.mediumslateblue{color: #7b68ee}
