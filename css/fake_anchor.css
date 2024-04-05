@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+.disable_anchor_effect_decoration {
+
+    text-decoration: none;
+
+}
+
+.disable_anchor_effect_color {
+    color: black;
+}
+
+.fake_anchor {
+    color: #0030ff;
+
+    text-decoration: none;
+
+    display: inline-block;
+    position: relative;
+}
+
+.fake_anchor::after {
+    background-color: blue;
+    bottom: 3px;
+    content: '';
+    display: block;
+    height: 1px;
+    left: 0;
+    position: absolute;
+    transition: 0.25s all;
+    width: 0;
+
+}
+
+.fake_anchor:hover::after {
+    width: 100%;
+}

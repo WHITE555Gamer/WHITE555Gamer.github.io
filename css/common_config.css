@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body {
+    margin: 0;
+    padding: 0;
+    border-top: 5px solid lightblue;
+}
+
+.divider_horizontal_line {
+    margin: 0;
+    padding: 0;
+}
+
+.divider_vertical_line::after {
+content: "｜";
+}

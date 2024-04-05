@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+@import url("./css/common_config.css");
+@import url("./css/content.css");
+@import url("./css/header.css");
+@import url("./css/footer.css");
+@import url("./css/fake_anchor.css");
+@import url("./css/item_box.css");
