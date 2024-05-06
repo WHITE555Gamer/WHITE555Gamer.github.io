@@ -1,0 +1,120 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 999px) {
+    footer {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 100px;
+        padding-right: 100px;
+
+        background-color: lightgray;
+    }
+}
+
+@media screen and (max-width: 599px) {
+    footer {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+
+        background-color: lightgray;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    footer {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 200px;
+        padding-right: 200px;
+
+        background-color: lightgray;
+    }
+}
+
+@media screen and (max-width: 999px) {
+    #footer {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width: 599px) {
+    #footer {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    #footer {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+
+
+.footer_grid_item {
+    margin: 0px;
+
+    margin-top: 3px;
+    margin-bottom: 2px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 1rem;
+    padding-right: 0px;
+
+    width: calc(50%-(1rem+10px));
+}
+
+
+
+
+
+
+
+.fake_anchor {
+    color: #0030ff;
+
+    text-decoration: none;
+
+    display: inline-block;
+    position: relative;
+}
+
+.fake_anchor::after {
+    background-color: blue;
+    bottom: 3px;
+    content: '';
+    display: block;
+    height: 1px;
+    left: 0;
+    position: absolute;
+    transition: 0.25s all;
+    width: 0;
+
+}
+
+.fake_anchor:hover::after {
+    width: 100%;
+}

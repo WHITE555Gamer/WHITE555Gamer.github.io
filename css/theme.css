@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+body {
+    background-color: light-dark(#ffffff, #111111);
+}
+
+p, h1, h2, h3, h4, h5 {
+    color: light-dark(#000000, #ffffff);
+}

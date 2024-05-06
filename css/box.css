@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.spacing-fwc {
+    display: block;
+    width: 1rem;
+}
+.spacing-hwc {
+    display: block;
+    width: 0.5rem;
+} 
